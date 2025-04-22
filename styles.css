@@ -1,0 +1,14 @@
+body{
+    border: 5px solid black;
+    border-radius: 20px;
+}
+h1{
+font-size: 30px;
+}
+h2{
+    color: rgb(7, 86, 65);
+    font-size: 20px;
+}
+.adress-list li{
+    list-style: none;
+}
